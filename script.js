@@ -18,7 +18,6 @@ document.addEventListener('DOMContentLoaded', () => {
         <div class="menu-items">
             <img src="Screenshot 2022-07-20 at 22-56-23 Responsive website food.png">
             <img src="Screenshot 2022-07-20 at 22-58-58 Responsive website food.png">
-            <img src="Screenshot 2022-07-20 at 22-56-44 Responsive website food.png">
 
         </div>
     `;
@@ -30,9 +29,9 @@ document.addEventListener('DOMContentLoaded', () => {
     gallerySection.innerHTML = `
         <h2>Gallery</h2>
         <div class="gallery-items">
-            <img src="assets/img/menu-item1.jpg" alt="Gallery Image 1">
-            <img src="assets/img/menu-item2.jpg" alt="Gallery Image 2">
-            <img src="assets/img/logo.png" alt="Logo">
+            <img src="Screenshot 2022-07-20 at 22-57-04 Responsive website food.png">
+            <img src="Screenshot 2022-07-20 at 22-56-02 Responsive website food.png">
+            <img src="assets/img/home.png">
         </div>
     `;
     app.appendChild(gallerySection);
